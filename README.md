@@ -3,8 +3,14 @@
 
 # About The Project
 Elena Joy Photography was a portfolio's photographer website. This project was built while I was learning about frontend development
+
 # What Languages I Used For Thist Project
+
+# Sample Pictures
 ![ej2](https://user-images.githubusercontent.com/89916459/147341718-dbd0018f-b03b-4db5-b2d2-c7b1112235dc.png)
 ![ej4](https://user-images.githubusercontent.com/89916459/147341736-3147d85f-a67f-4de2-a8c5-24358f93ac12.png)
+
+# Designed For Different Screens and Devices
 ![ej3](https://user-images.githubusercontent.com/89916459/147341742-32540de4-744d-4b47-ab36-16e0a964339b.png)
+# Nav Bar
 ![navmb](https://user-images.githubusercontent.com/89916459/147341745-13094713-2c27-457b-b474-0429f4f3e7b2.PNG)
